@@ -16,3 +16,5 @@ Shafaet | N/A |
 | 5 | 71. Simplify Path | LeetCode | String | Medium | Choose a type |
 
 | 6 | 43. Multiply Strings | LeetCode | Math | Medium | Choose a type |
+
+| 7 | 68. Text Justification | LeetCode | String | Hard | Choose a type |
