@@ -24,3 +24,5 @@ Shafaet | N/A |
 | 9 | 13. Roman to Integer | LeetCode | Hash Table | Easy | Choose a type |
 
 | 10 | 165. Compare Version Numbers | LeetCode | Two Pointers,String | Medium | Choose a type |
+
+| 11 | 179. Largest Number | LeetCode | String,Sorting | Medium | Choose a type |
