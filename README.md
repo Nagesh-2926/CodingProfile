@@ -12,3 +12,5 @@
 | 4 | java-output-formatting. Java Output Formatting | HackerRank | Basic | Author
 
 Shafaet | N/A |
+
+| 5 | 71. Simplify Path | LeetCode | String | Medium | Choose a type |
