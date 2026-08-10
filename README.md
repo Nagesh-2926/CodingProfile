@@ -26,3 +26,5 @@ Shafaet | N/A |
 | 10 | 165. Compare Version Numbers | LeetCode | Two Pointers,String | Medium | Choose a type |
 
 | 11 | 179. Largest Number | LeetCode | String,Sorting | Medium | Choose a type |
+
+| 12 | 214. Shortest Palindrome | LeetCode | Knuth–Morris–Pratt Algorithm,String | Hard | Choose a type |
