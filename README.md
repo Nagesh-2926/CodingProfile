@@ -18,3 +18,5 @@ Shafaet | N/A |
 | 6 | 43. Multiply Strings | LeetCode | Math | Medium | Choose a type |
 
 | 7 | 68. Text Justification | LeetCode | String | Hard | Choose a type |
+
+| 8 | 12. Integer to Roman | LeetCode | String | Medium | Choose a type |
