@@ -20,3 +20,5 @@ Shafaet | N/A |
 | 7 | 68. Text Justification | LeetCode | String | Hard | Choose a type |
 
 | 8 | 12. Integer to Roman | LeetCode | String | Medium | Choose a type |
+
+| 9 | 13. Roman to Integer | LeetCode | Hash Table | Easy | Choose a type |
