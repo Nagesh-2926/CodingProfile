@@ -34,3 +34,5 @@ Shafaet | N/A |
 | 14 | 1572. Matrix Diagonal Sum | LeetCode | Matrix | Easy | Choose a type |
 
 | 15 | 1672. Richest Customer Wealth | LeetCode | Matrix | Easy | Choose a type |
+
+| 16 | 766. Toeplitz Matrix | LeetCode | Matrix | Easy | Choose a type |
