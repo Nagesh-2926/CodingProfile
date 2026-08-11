@@ -32,3 +32,5 @@ Shafaet | N/A |
 | 13 | 2996. Smallest Missing Integer Greater Than Sequential Prefix Sum | LeetCode | Array | Easy | Choose a type |
 
 | 14 | 1572. Matrix Diagonal Sum | LeetCode | Matrix | Easy | Choose a type |
+
+| 15 | 1672. Richest Customer Wealth | LeetCode | Matrix | Easy | Choose a type |
