@@ -30,3 +30,5 @@ Shafaet | N/A |
 | 12 | 214. Shortest Palindrome | LeetCode | Knuth–Morris–Pratt Algorithm,String | Hard | Choose a type |
 
 | 13 | 2996. Smallest Missing Integer Greater Than Sequential Prefix Sum | LeetCode | Array | Easy | Choose a type |
+
+| 14 | 1572. Matrix Diagonal Sum | LeetCode | Matrix | Easy | Choose a type |
