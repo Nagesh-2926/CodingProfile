@@ -36,3 +36,5 @@ Shafaet | N/A |
 | 15 | 1672. Richest Customer Wealth | LeetCode | Matrix | Easy | Choose a type |
 
 | 16 | 766. Toeplitz Matrix | LeetCode | Matrix | Easy | Choose a type |
+
+| 17 | 867. Transpose Matrix | LeetCode | Matrix | Easy | Choose a type |
