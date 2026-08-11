@@ -38,3 +38,5 @@ Shafaet | N/A |
 | 16 | 766. Toeplitz Matrix | LeetCode | Matrix | Easy | Choose a type |
 
 | 17 | 867. Transpose Matrix | LeetCode | Matrix | Easy | Choose a type |
+
+| 18 | 832. Flipping an Image | LeetCode | Matrix | Easy | Choose a type |
