@@ -40,3 +40,5 @@ Shafaet | N/A |
 | 17 | 867. Transpose Matrix | LeetCode | Matrix | Easy | Choose a type |
 
 | 18 | 832. Flipping an Image | LeetCode | Matrix | Easy | Choose a type |
+
+| 19 | GFG. Delete in a Doubly Linked List | GeeksforGeeks | doubly-linked-list | N/A | Java (21) |
