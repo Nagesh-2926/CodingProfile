@@ -42,3 +42,5 @@ Shafaet | N/A |
 | 18 | 832. Flipping an Image | LeetCode | Matrix | Easy | Choose a type |
 
 | 19 | GFG. Delete in a Doubly Linked List | GeeksforGeeks | doubly-linked-list | N/A | Java (21) |
+
+| 20 | GFG. Reverse a Doubly Linked List | GeeksforGeeks | doubly-linked-list | N/A | Java (21) |
