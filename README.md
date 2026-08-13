@@ -48,3 +48,27 @@ Shafaet | N/A |
 | 21 | GFG. Insert in Sorted way in a Sorted DLL | GeeksforGeeks | doubly-linked-list | N/A | Java (21) |
 
 | 22 | 387. First Unique Character in a String | LeetCode | Hash Table | Easy | Choose a type |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Nagesh-2926/CodingProfile/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Nagesh-2926/CodingProfile/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Nagesh-2926/CodingProfile/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Nagesh-2926/CodingProfile/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Nagesh-2926/CodingProfile/tree/main/0349-intersection-of-two-arrays/) | Easy |
+<!---LeetCode Topics End-->
