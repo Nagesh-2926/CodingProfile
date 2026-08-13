@@ -82,3 +82,5 @@ Shafaet | N/A |
 | 44 | 350. Intersection of Two Arrays II | LeetCode | Hash Table | Easy | Choose a type |
 
 | 45 | 1472. Design Browser History | LeetCode | Doubly-Linked List | Medium | Choose a type |
+
+| 46 | 442. Find All Duplicates in an Array | LeetCode | Array | Medium | Choose a type |
