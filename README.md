@@ -72,3 +72,4 @@ Shafaet | N/A |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Nagesh-2926/CodingProfile/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
+| 38 | 349. Intersection of Two Arrays | LeetCode | Hash Table | Easy | Choose a type |
