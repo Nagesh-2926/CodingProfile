@@ -46,3 +46,5 @@ Shafaet | N/A |
 | 20 | GFG. Reverse a Doubly Linked List | GeeksforGeeks | doubly-linked-list | N/A | Java (21) |
 
 | 21 | GFG. Insert in Sorted way in a Sorted DLL | GeeksforGeeks | doubly-linked-list | N/A | Java (21) |
+
+| 22 | 387. First Unique Character in a String | LeetCode | Hash Table | Easy | Choose a type |
