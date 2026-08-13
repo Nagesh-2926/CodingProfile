@@ -1,0 +1,12 @@
+class Solution {
+    ArrayList<Integer> findMissing(int[] a, int[] b) {
+        // code here
+        ArrayList<Integer> res=new ArrayList<>();
+        HashSet<Integer> set=new HashSet<>();
+        for(int num : b) set.add(num);
+        for(int num : a){
+            if(!set.contains(num)) res.add(num);
+        }
+        return res;
+    }
+}
