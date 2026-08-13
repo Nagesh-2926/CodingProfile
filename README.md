@@ -84,3 +84,5 @@ Shafaet | N/A |
 | 45 | 1472. Design Browser History | LeetCode | Doubly-Linked List | Medium | Choose a type |
 
 | 46 | 442. Find All Duplicates in an Array | LeetCode | Array | Medium | Choose a type |
+
+| 47 | 705. Design HashSet | LeetCode | Hash Function | Easy | Choose a type |
