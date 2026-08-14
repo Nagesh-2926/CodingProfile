@@ -86,3 +86,5 @@ Shafaet | N/A |
 | 46 | 442. Find All Duplicates in an Array | LeetCode | Array | Medium | Choose a type |
 
 | 47 | 705. Design HashSet | LeetCode | Hash Function | Easy | Choose a type |
+
+| 48 | 242. Valid Anagram | LeetCode | Hash Table | Easy | Choose a type |
