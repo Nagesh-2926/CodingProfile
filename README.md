@@ -90,3 +90,5 @@ Shafaet | N/A |
 | 48 | 242. Valid Anagram | LeetCode | Hash Table | Easy | Choose a type |
 
 | 49 | 49. Group Anagrams | LeetCode | Hash Table | Medium | Choose a type |
+
+| 50 | 2006. Count Number of Pairs With Absolute Difference K | LeetCode | Hash Table | Easy | Choose a type |
