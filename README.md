@@ -88,3 +88,5 @@ Shafaet | N/A |
 | 47 | 705. Design HashSet | LeetCode | Hash Function | Easy | Choose a type |
 
 | 48 | 242. Valid Anagram | LeetCode | Hash Table | Easy | Choose a type |
+
+| 49 | 49. Group Anagrams | LeetCode | Hash Table | Medium | Choose a type |
