@@ -98,3 +98,5 @@ Shafaet | N/A |
 | 52 | 54. Spiral Matrix | LeetCode | Matrix | Medium | Choose a type |
 
 | 53 | 59. Spiral Matrix II | LeetCode | Matrix | Medium | Choose a type |
+
+| 54 | 498. Diagonal Traverse | LeetCode | Matrix | Medium | Choose a type |
