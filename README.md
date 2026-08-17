@@ -104,3 +104,5 @@ Shafaet | N/A |
 | 55 | 2187. Minimum Time to Complete Trips | LeetCode | Binary Search | Medium | Choose a type |
 
 | 56 | 4. Median of Two Sorted Arrays | LeetCode | Divide and Conquer | Hard | Choose a type |
+
+| 57 | 410. Split Array Largest Sum | LeetCode | Binary Search | Hard | Choose a type |
