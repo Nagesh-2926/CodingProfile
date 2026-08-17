@@ -94,3 +94,5 @@ Shafaet | N/A |
 | 50 | 2006. Count Number of Pairs With Absolute Difference K | LeetCode | Hash Table | Easy | Choose a type |
 
 | 51 | 3702. Longest Subsequence With Non-Zero Bitwise XOR | LeetCode | Bit Manipulation | Medium | Choose a type |
+
+| 52 | 54. Spiral Matrix | LeetCode | Matrix | Medium | Choose a type |
