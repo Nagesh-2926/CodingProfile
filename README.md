@@ -96,3 +96,5 @@ Shafaet | N/A |
 | 51 | 3702. Longest Subsequence With Non-Zero Bitwise XOR | LeetCode | Bit Manipulation | Medium | Choose a type |
 
 | 52 | 54. Spiral Matrix | LeetCode | Matrix | Medium | Choose a type |
+
+| 53 | 59. Spiral Matrix II | LeetCode | Matrix | Medium | Choose a type |
