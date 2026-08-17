@@ -1,0 +1,28 @@
+class Solution {
+    public int splitArray(int[] nums, int k) {
+        int max=0;
+        int sum=0;
+        for(int x : nums){
+            max=Math.max(max, x);
+            sum+=x;
+        }
+        int l=max;
+        int h=sum;
+        while(l<h){
+            int mid=l+(h-l)/2;
+            int sub=1;
+            int curr=0;
+            for(int x : nums){
+                if(curr+x>mid){
+                    curr=x;
+                    sub++;
+                }else{
+                    curr+=x;
+                }
+            }
+            if(sub<=k) h=mid;
+            else l=mid+1;
+        }
+        return l;
+    }
+}
