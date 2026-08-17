@@ -1,0 +1,37 @@
+class Solution{
+    public int[][] generateMatrix(int n){
+        int[][] mat=new int[n][n];
+        int val=1;
+        int sr=0;
+        int sc=0;
+        int er=n-1;
+        int ec=n-1;
+        while(sr<=er && sc<=ec){
+            // starting row
+            for(int i=sc;i<=ec;i++){
+                mat[sr][i]=val++;
+            }
+            sr++;
+            // ending column
+            for(int j=sr;j<=er;j++){
+                mat[j][ec]=val++;
+            }
+            ec--;
+            // ending row
+            if(sr<=er){
+                for(int i=ec;i>=sc;i--){
+                    mat[er][i]=val++;
+                }
+                er--;
+            }
+            // starting column
+            if(sc<=ec){
+                for(int j=er;j>=sr;j--){
+                    mat[j][sc]=val++;
+                }
+                sc++;
+            }
+        }
+        return mat;
+    }
+}
