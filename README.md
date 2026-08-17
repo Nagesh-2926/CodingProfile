@@ -100,3 +100,5 @@ Shafaet | N/A |
 | 53 | 59. Spiral Matrix II | LeetCode | Matrix | Medium | Choose a type |
 
 | 54 | 498. Diagonal Traverse | LeetCode | Matrix | Medium | Choose a type |
+
+| 55 | 2187. Minimum Time to Complete Trips | LeetCode | Binary Search | Medium | Choose a type |
