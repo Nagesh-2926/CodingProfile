@@ -107,7 +107,7 @@ Shafaet | N/A |
 
 | 57 | 410. Split Array Largest Sum | LeetCode | Binary Search | Hard | Choose a type |
 
-| 58 | 3069. Distribute Elements Into Two Arrays I | LeetCode | Simulation | Easy | Choose a type |
+| 58 | 3069. Distribute Elements Into Two Arrays I | LeetCode | Array | Easy | Choose a type |
 
 | 59 | GFG. Largest subarray with 0 sum | GeeksforGeeks | Hash | N/A | Java (21) |
 
