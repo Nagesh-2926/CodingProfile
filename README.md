@@ -110,3 +110,5 @@ Shafaet | N/A |
 | 58 | 3069. Distribute Elements Into Two Arrays I | LeetCode | Simulation | Easy | Choose a type |
 
 | 59 | GFG. Largest subarray with 0 sum | GeeksforGeeks | Hash | N/A | Java (21) |
+
+| 60 | GFG. Zero Sum Subarray | GeeksforGeeks | Map | N/A | Java (21) |
