@@ -1,0 +1,23 @@
+class Solution {
+    public int[] findDiagonalOrder(List<List<Integer>> nums) {
+        Map<Integer,List<Integer>> map=new HashMap<>();
+        int maxD=0;
+        for(int r=0;r<nums.size();r++){
+            for(int c=0;c<nums.get(r).size();c++){
+                int d=r+c; //diagonal
+                map.computeIfAbsent(d,k->new ArrayList<>()).add(nums.get(r).get(c));
+                maxD=Math.max(maxD,d);
+            }
+        }
+        List<Integer> ans=new ArrayList<>();
+        for(int x=0;x<=maxD;x++){
+            List<Integer> diagonal=map.get(x);
+            if(diagonal !=  null){
+                for(int i=diagonal.size()-1;i>=0;i--){
+                    ans.add(diagonal.get(i));
+                }
+            }
+        }
+        return ans.stream().mapToInt(Integer::intValue).toArray();
+    }
+}
