@@ -112,3 +112,5 @@ Shafaet | N/A |
 | 59 | GFG. Largest subarray with 0 sum | GeeksforGeeks | Hash | N/A | Java (21) |
 
 | 60 | GFG. Zero Sum Subarray | GeeksforGeeks | Map | N/A | Java (21) |
+
+| 61 | 1424. Diagonal Traverse II | LeetCode | Array | Medium | Choose a type |
