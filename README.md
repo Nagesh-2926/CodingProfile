@@ -118,3 +118,5 @@ Shafaet | N/A |
 | 62 | 48. Rotate Image | LeetCode | Matrix | Medium | Choose a type |
 
 | 63 | 73. Set Matrix Zeroes | LeetCode | Matrix | Medium | Choose a type |
+
+| 64 | 566. Reshape the Matrix | LeetCode | Matrix | Easy | Choose a type |
