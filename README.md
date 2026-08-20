@@ -120,3 +120,5 @@ Shafaet | N/A |
 | 63 | 73. Set Matrix Zeroes | LeetCode | Matrix | Medium | Choose a type |
 
 | 64 | 566. Reshape the Matrix | LeetCode | Matrix | Easy | Choose a type |
+
+| 65 | 289. Game of Life | LeetCode | Matrix | Medium | Choose a type |
