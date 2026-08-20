@@ -106,3 +106,5 @@ Shafaet | N/A |
 | 56 | 4. Median of Two Sorted Arrays | LeetCode | Divide and Conquer | Hard | Choose a type |
 
 | 57 | 410. Split Array Largest Sum | LeetCode | Binary Search | Hard | Choose a type |
+
+| 58 | 3069. Distribute Elements Into Two Arrays I | LeetCode | Simulation | Easy | Choose a type |
