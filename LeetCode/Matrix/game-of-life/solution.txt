@@ -2,31 +2,29 @@ class Solution {
     public void gameOfLife(int[][] board) {
         int n=board.length;
         int m=board[0].length;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
+        int[] rowDir={-1,-1,-1,0,0,1,1,1};
+        int[] colDir={-1,0,1,-1,1,-1,0,1};
+        for(int row=0;row<n;row++){
+            for(int col=0;col<m;col++){
                 int cnt=0;
-                for(int di=-1;di<=1;di++){
-                    for(int dj=-1;dj<=1;dj++){
-                        if(di==0 && dj==0) continue;
-                        int ni=i+di;
-                        int nj=j+dj;
-                        if(ni>=0 && ni<n && nj>=0 && nj<m && (board[ni][nj]==1 || board[ni][nj]==2)){
-                            cnt++;
-                        }
+                for(int dir=0;dir<8;dir++){
+                    int newRow=row+rowDir[dir];
+                    int newCol=col+colDir[dir];
+                    if(newRow>=0 && newRow<n && newCol>=0 && newCol<m && (board[newRow][newCol]==1 || board[newRow][newCol]==2)){
+                        cnt++;
                     }
                 }
-                if(board[i][j]==1){
-                    if(cnt<2||cnt>3) board[i][j]=2;
+                if(board[row][col]==1){
+                    if(cnt<2||cnt>3) board[row][col]=2;
                 }else{
-                    if(cnt==3) board[i][j]=3;
+                    if(cnt==3) board[row][col]=3;
                 }
             }
         }
-
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(board[i][j]==2) board[i][j]=0;
-                else if(board[i][j]==3) board[i][j]=1;
+        for(int row=0;row<n;row++){
+            for(int col=0;col<m;col++){
+                if(board[row][col]==2) board[row][col]=0;
+                else if(board[row][col]==3) board[row][col]=1;
             }
         }
     }
