@@ -116,3 +116,5 @@ Shafaet | N/A |
 | 61 | 1424. Diagonal Traverse II | LeetCode | Array | Medium | Choose a type |
 
 | 62 | 48. Rotate Image | LeetCode | Matrix | Medium | Choose a type |
+
+| 63 | 73. Set Matrix Zeroes | LeetCode | Matrix | Medium | Choose a type |
