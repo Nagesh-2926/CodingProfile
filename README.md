@@ -114,3 +114,5 @@ Shafaet | N/A |
 | 60 | GFG. Zero Sum Subarray | GeeksforGeeks | Map | N/A | Java (21) |
 
 | 61 | 1424. Diagonal Traverse II | LeetCode | Array | Medium | Choose a type |
+
+| 62 | 48. Rotate Image | LeetCode | Matrix | Medium | Choose a type |
