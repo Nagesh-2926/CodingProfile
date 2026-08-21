@@ -126,3 +126,5 @@ Shafaet | N/A |
 | 66 | 36. Valid Sudoku | LeetCode | Matrix | Medium | Choose a type |
 
 | 67 | 1886. Determine Whether Matrix Can Be Obtained By Rotation | LeetCode | Matrix | Easy | Choose a type |
+
+| 68 | 74. Search a 2D Matrix | LeetCode | Matrix | Medium | Choose a type |
