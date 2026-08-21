@@ -124,3 +124,5 @@ Shafaet | N/A |
 | 65 | 289. Game of Life | LeetCode | Matrix | Medium | Choose a type |
 
 | 66 | 36. Valid Sudoku | LeetCode | Matrix | Medium | Choose a type |
+
+| 67 | 1886. Determine Whether Matrix Can Be Obtained By Rotation | LeetCode | Matrix | Easy | Choose a type |
