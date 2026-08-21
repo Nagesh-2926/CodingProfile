@@ -129,4 +129,4 @@ Shafaet | N/A |
 
 | 68 | 74. Search a 2D Matrix | LeetCode | Matrix | Medium | Choose a type |
 
-| 69 | 240. Search a 2D Matrix II | LeetCode | Array | Medium | Choose a type |
+| 69 | 240. Search a 2D Matrix II | LeetCode | Binary Search | Medium | Choose a type |
