@@ -122,3 +122,5 @@ Shafaet | N/A |
 | 64 | 566. Reshape the Matrix | LeetCode | Matrix | Easy | Choose a type |
 
 | 65 | 289. Game of Life | LeetCode | Matrix | Medium | Choose a type |
+
+| 66 | 36. Valid Sudoku | LeetCode | Matrix | Medium | Choose a type |
