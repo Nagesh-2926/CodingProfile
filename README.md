@@ -128,3 +128,5 @@ Shafaet | N/A |
 | 67 | 1886. Determine Whether Matrix Can Be Obtained By Rotation | LeetCode | Matrix | Easy | Choose a type |
 
 | 68 | 74. Search a 2D Matrix | LeetCode | Matrix | Medium | Choose a type |
+
+| 69 | 240. Search a 2D Matrix II | LeetCode | Array | Medium | Choose a type |
