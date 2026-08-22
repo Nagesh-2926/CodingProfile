@@ -136,3 +136,5 @@ Shafaet | N/A |
 | 71 | 378. Kth Smallest Element in a Sorted Matrix | LeetCode | Binary Search | Medium | Choose a type |
 
 | 72 | 1497. Check If Array Pairs Are Divisible by k | LeetCode | Hash Table | Medium | Choose a type |
+
+| 73 | 3. Longest Substring Without Repeating Characters | LeetCode | Hash Table | Medium | Choose a type |
