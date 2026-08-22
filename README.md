@@ -142,3 +142,5 @@ Shafaet | N/A |
 | 74 | 3622. Check Divisibility by Digit Sum and Product | LeetCode | Math | Easy | Choose a type |
 
 | 75 | 904. Fruit Into Baskets | LeetCode | Hash Table | Medium | Choose a type |
+
+| 76 | 395. Longest Substring with At Least K Repeating Characters | LeetCode | Hash Table | Medium | Choose a type |
