@@ -1,0 +1,19 @@
+class Solution {
+    public boolean canArrange(int[] nums, int k) {
+        HashMap<Integer,Integer> map=new HashMap<>();
+        for(int num : nums){
+            int rem=((num % k)+k) %k;
+            map.put(rem,map.getOrDefault(rem,0)+1);
+        }
+        for(int rem : map.keySet()){
+            int req=(k-rem) % k;
+            if(rem==req){
+                if(map.get(rem)%2 != 0) return false; 
+            }else{
+                if(!map.get(rem).equals(map.getOrDefault(req,0))) return false;
+            }
+            
+        }
+        return true;
+    }
+}
