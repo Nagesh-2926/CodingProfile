@@ -134,3 +134,5 @@ Shafaet | N/A |
 | 70 | 1351. Count Negative Numbers in a Sorted Matrix | LeetCode | Binary Search | Easy | Choose a type |
 
 | 71 | 378. Kth Smallest Element in a Sorted Matrix | LeetCode | Binary Search | Medium | Choose a type |
+
+| 72 | 1497. Check If Array Pairs Are Divisible by k | LeetCode | Hash Table | Medium | Choose a type |
