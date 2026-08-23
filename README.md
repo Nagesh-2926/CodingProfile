@@ -144,3 +144,5 @@ Shafaet | N/A |
 | 75 | 904. Fruit Into Baskets | LeetCode | Hash Table | Medium | Choose a type |
 
 | 76 | 395. Longest Substring with At Least K Repeating Characters | LeetCode | Hash Table | Medium | Choose a type |
+
+| 77 | 463. Island Perimeter | LeetCode | Matrix | Easy | Choose a type |
