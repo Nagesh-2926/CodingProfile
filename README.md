@@ -149,4 +149,4 @@ Shafaet | N/A |
 
 | 78 | 2225. Find Players With Zero or One Losses | LeetCode | Hash Table | Medium | Choose a type |
 
-| 79 | 438. Find All Anagrams in a String | LeetCode | Hash Table | Medium | Choose a type |
+| 79 | 438. Find All Anagrams in a String | LeetCode | Hash Table, Sliding Window | Medium | Choose a type |
