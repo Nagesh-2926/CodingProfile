@@ -1,0 +1,23 @@
+class Solution {
+    public List<Integer> findAnagrams(String s, String p) {
+        List<Integer> ans=new ArrayList<>();    
+        if(p.length() > s.length()) return ans;
+        HashMap<Character,Integer> map=new HashMap<>();
+        for(char ch : p.toCharArray()) map.put(ch,map.getOrDefault(ch,0)+1);
+        int l=0,r=0,req=p.length();
+        while(r<s.length()){
+            char ch=s.charAt(r);
+            if(map.getOrDefault(ch,0)>0) req--;
+            map.put(ch, map.getOrDefault(ch,0)-1);
+            r++;
+            if(req==0) ans.add(l);
+            if(r-l == p.length()){
+                char lchar=s.charAt(l);
+                if(map.getOrDefault(lchar,0) >= 0) req++;
+                map.put(lchar,map.getOrDefault(lchar,0)+1);
+                l++;
+            }
+        }
+        return ans;
+    }
+}
