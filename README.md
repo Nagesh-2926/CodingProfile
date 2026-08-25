@@ -158,3 +158,5 @@ Shafaet | N/A |
 | 82 | 695. Max Area of Island | LeetCode | Depth-First Search | Medium | Choose a type |
 
 | 83 | 733. Flood Fill | LeetCode | Depth-First Search | Easy | Choose a type |
+
+| 84 | 3718. Smallest Missing Multiple of K | LeetCode | Hash Table | Easy | Choose a type |
