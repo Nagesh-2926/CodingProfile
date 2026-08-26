@@ -163,4 +163,4 @@ Shafaet | N/A |
 
 | 85 | 560. Subarray Sum Equals K | LeetCode | Hash Table | Medium | Choose a type |
 
-| 86 | 209. Minimum Size Subarray Sum | LeetCode | Sliding Window | Medium | Choose a type |
+| 86 | 209. Minimum Size Subarray Sum | LeetCode | Binary Search, Prefix Sum | Medium | Choose a type |
