@@ -160,3 +160,5 @@ Shafaet | N/A |
 | 83 | 733. Flood Fill | LeetCode | Depth-First Search | Easy | Choose a type |
 
 | 84 | 3718. Smallest Missing Multiple of K | LeetCode | Hash Table | Easy | Choose a type |
+
+| 85 | 560. Subarray Sum Equals K | LeetCode | Hash Table | Medium | Choose a type |
