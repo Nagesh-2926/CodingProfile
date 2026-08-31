@@ -168,3 +168,5 @@ Shafaet | N/A |
 | 87 | 118. Pascal's Triangle | LeetCode | Array | Easy | Choose a type |
 
 | 88 | 66. Plus One | LeetCode | Array | Easy | Choose a type |
+
+| 89 | 171. Excel Sheet Column Number | LeetCode | Math | Easy | Choose a type |
