@@ -166,3 +166,5 @@ Shafaet | N/A |
 | 86 | 209. Minimum Size Subarray Sum | LeetCode | Binary Search, Prefix Sum | Medium | Choose a type |
 
 | 87 | 118. Pascal's Triangle | LeetCode | Array | Easy | Choose a type |
+
+| 88 | 66. Plus One | LeetCode | Array | Easy | Choose a type |
