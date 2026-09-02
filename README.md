@@ -174,3 +174,5 @@ Shafaet | N/A |
 | 90 | 1423. Maximum Points You Can Obtain from Cards | LeetCode | Array | Medium | Choose a type |
 
 | 91 | 1358. Number of Substrings Containing All Three Characters | LeetCode | Sliding Window | Medium | Choose a type |
+
+| 92 | 930. Binary Subarrays With Sum | LeetCode | Sliding Window | Medium | Choose a type |
