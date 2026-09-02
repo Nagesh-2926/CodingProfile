@@ -181,4 +181,4 @@ Shafaet | N/A |
 
 | 94 | 1248. Count Number of Nice Subarrays | LeetCode | Sliding Window | Medium | Choose a type |
 
-| 95 | 1047. Remove All Adjacent Duplicates In String | LeetCode | Stack | Easy | Choose a type |
+| 95 | 1047. Remove All Adjacent Duplicates In String | LeetCode | String | Easy | Choose a type |
