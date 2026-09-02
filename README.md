@@ -178,3 +178,5 @@ Shafaet | N/A |
 | 92 | 930. Binary Subarrays With Sum | LeetCode | Sliding Window | Medium | Choose a type |
 
 | 93 | 992. Subarrays with K Different Integers | LeetCode | Hash Table | Hard | Choose a type |
+
+| 94 | 1248. Count Number of Nice Subarrays | LeetCode | Sliding Window | Medium | Choose a type |
