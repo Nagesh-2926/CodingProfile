@@ -176,3 +176,5 @@ Shafaet | N/A |
 | 91 | 1358. Number of Substrings Containing All Three Characters | LeetCode | Sliding Window | Medium | Choose a type |
 
 | 92 | 930. Binary Subarrays With Sum | LeetCode | Sliding Window | Medium | Choose a type |
+
+| 93 | 992. Subarrays with K Different Integers | LeetCode | Hash Table | Hard | Choose a type |
