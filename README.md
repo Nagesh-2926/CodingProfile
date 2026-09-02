@@ -172,3 +172,5 @@ Shafaet | N/A |
 | 89 | 171. Excel Sheet Column Number | LeetCode | Math | Easy | Choose a type |
 
 | 90 | 1423. Maximum Points You Can Obtain from Cards | LeetCode | Array | Medium | Choose a type |
+
+| 91 | 1358. Number of Substrings Containing All Three Characters | LeetCode | Sliding Window | Medium | Choose a type |
