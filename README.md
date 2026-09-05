@@ -184,3 +184,5 @@ Shafaet | N/A |
 | 95 | 1047. Remove All Adjacent Duplicates In String | LeetCode | String | Easy | Choose a type |
 
 | 96 | 3876. Construct Uniform Parity Array II | LeetCode | Array | Medium | Choose a type |
+
+| 97 | 70. Climbing Stairs | LeetCode | Dynamic Programming | Easy | Choose a type |
