@@ -186,3 +186,5 @@ Shafaet | N/A |
 | 96 | 3876. Construct Uniform Parity Array II | LeetCode | Array | Medium | Choose a type |
 
 | 97 | 70. Climbing Stairs | LeetCode | Dynamic Programming | Easy | Choose a type |
+
+| 98 | 383. Ransom Note | LeetCode | Hash Table | Easy | Choose a type |
