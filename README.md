@@ -192,3 +192,5 @@ Shafaet | N/A |
 | 99 | 202. Happy Number | LeetCode | Hash Table | Easy | Choose a type |
 
 | 100 | 169. Majority Element | LeetCode | Hash Table | Easy | Choose a type |
+
+| 101 | 347. Top K Frequent Elements | LeetCode | Hash Table | Medium | Choose a type |
