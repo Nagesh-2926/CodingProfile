@@ -188,3 +188,5 @@ Shafaet | N/A |
 | 97 | 70. Climbing Stairs | LeetCode | Dynamic Programming | Easy | Choose a type |
 
 | 98 | 383. Ransom Note | LeetCode | Hash Table | Easy | Choose a type |
+
+| 99 | 202. Happy Number | LeetCode | Hash Table | Easy | Choose a type |
