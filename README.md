@@ -190,3 +190,5 @@ Shafaet | N/A |
 | 98 | 383. Ransom Note | LeetCode | Hash Table | Easy | Choose a type |
 
 | 99 | 202. Happy Number | LeetCode | Hash Table | Easy | Choose a type |
+
+| 100 | 169. Majority Element | LeetCode | Hash Table | Easy | Choose a type |
