@@ -200,3 +200,5 @@ Shafaet | N/A |
 | 103 | 128. Longest Consecutive Sequence | LeetCode | Hash Table | Medium | Choose a type |
 
 | 104 | 454. 4Sum II | LeetCode | Array | Medium | Choose a type |
+
+| 105 | 389. Find the Difference | LeetCode | Hash Table | Easy | Choose a type |
