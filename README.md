@@ -196,3 +196,5 @@ Shafaet | N/A |
 | 101 | 347. Top K Frequent Elements | LeetCode | Hash Table | Medium | Choose a type |
 
 | 102 | 448. Find All Numbers Disappeared in an Array | LeetCode | Hash Table | Easy | Choose a type |
+
+| 103 | 128. Longest Consecutive Sequence | LeetCode | Hash Table | Medium | Choose a type |
