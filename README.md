@@ -198,3 +198,5 @@ Shafaet | N/A |
 | 102 | 448. Find All Numbers Disappeared in an Array | LeetCode | Hash Table | Easy | Choose a type |
 
 | 103 | 128. Longest Consecutive Sequence | LeetCode | Hash Table | Medium | Choose a type |
+
+| 104 | 454. 4Sum II | LeetCode | Array | Medium | Choose a type |
