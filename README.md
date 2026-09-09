@@ -202,3 +202,5 @@ Shafaet | N/A |
 | 104 | 454. 4Sum II | LeetCode | Array | Medium | Choose a type |
 
 | 105 | 389. Find the Difference | LeetCode | Bit Manipulation | Easy | Choose a type |
+
+| 106 | 525. Contiguous Array | LeetCode | Hash Table | Medium | Choose a type |
