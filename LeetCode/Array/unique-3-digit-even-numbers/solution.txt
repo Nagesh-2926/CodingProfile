@@ -1,0 +1,21 @@
+class Solution {
+    public int totalNumbers(int[] digits) {
+        int[] freq=new int[10];
+        for(int d : digits) freq[d]++;
+        int cnt=0;
+        for(int first=1;first<=9;first++){
+            if(freq[first]==0) continue;
+            freq[first]--;
+            for(int sec=0;sec<=9;sec++){
+                if(freq[sec]==0) continue;
+                freq[sec]--;
+                for(int last=0;last<=8;last+=2){
+                    if(freq[last]>0) cnt++;
+                }
+                freq[sec]++;
+            }
+            freq[first]++;
+        }
+        return cnt;
+    }
+}
