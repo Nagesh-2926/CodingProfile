@@ -204,3 +204,5 @@ Shafaet | N/A |
 | 105 | 389. Find the Difference | LeetCode | Bit Manipulation | Easy | Choose a type |
 
 | 106 | 525. Contiguous Array | LeetCode | Hash Table | Medium | Choose a type |
+
+| 107 | 3483. Unique 3-Digit Even Numbers | LeetCode | Array | Easy | Choose a type |
