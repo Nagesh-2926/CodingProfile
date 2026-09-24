@@ -210,3 +210,5 @@ Shafaet | N/A |
 | 108 | 836. Rectangle Overlap | LeetCode | Math | Easy | Choose a type |
 
 | 109 | 461. Hamming Distance | LeetCode | Bit Manipulation | Easy | Choose a type |
+
+| 110 | 3550. Smallest Index With Digit Sum Equal to Index | LeetCode | Array | Easy | Choose a type |
