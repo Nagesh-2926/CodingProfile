@@ -220,3 +220,5 @@ Shafaet | N/A |
 | 113 | 449. Serialize and Deserialize BST | LeetCode | Tree | Medium | Choose a type |
 
 | 114 | 101. Symmetric Tree | LeetCode | Tree | Easy | Choose a type |
+
+| 115 | 226. Invert Binary Tree | LeetCode | Tree | Easy | Choose a type |
