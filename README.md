@@ -226,3 +226,5 @@ Shafaet | N/A |
 | 116 | 113. Path Sum II | LeetCode | Tree | Medium | Java |
 
 | 117 | 1614. Maximum Nesting Depth of the Parentheses | LeetCode | String | Easy | Java |
+
+| 118 | 572. Subtree of Another Tree | LeetCode | Tree | Easy | Java |
