@@ -214,3 +214,5 @@ Shafaet | N/A |
 | 110 | 3550. Smallest Index With Digit Sum Equal to Index | LeetCode | Array | Easy | Choose a type |
 
 | 111 | 236. Lowest Common Ancestor of a Binary Tree | LeetCode | Tree | Medium | Choose a type |
+
+| 112 | 124. Binary Tree Maximum Path Sum | LeetCode | Tree | Hard | Choose a type |
