@@ -228,3 +228,5 @@ Shafaet | N/A |
 | 117 | 1614. Maximum Nesting Depth of the Parentheses | LeetCode | String | Easy | Java |
 
 | 118 | 572. Subtree of Another Tree | LeetCode | Tree | Easy | Java |
+
+| 119 | 257. Binary Tree Paths | LeetCode | String | Easy | Java |
