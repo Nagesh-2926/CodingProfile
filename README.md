@@ -234,3 +234,5 @@ Shafaet | N/A |
 | 120 | 112. Path Sum | LeetCode | Tree | Easy | Java |
 
 | 121 | 620. Not Boring Movies | LeetCode | Database | Easy | Java |
+
+| 122 | 584. Find Customer Referee | LeetCode | Database | Easy | Java |
