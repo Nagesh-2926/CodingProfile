@@ -238,3 +238,5 @@ Shafaet | N/A |
 | 122 | 584. Find Customer Referee | LeetCode | Database | Easy | Java |
 
 | 123 | Article Views I | LeetCode | database | N/A | Java |
+
+| 124 | 1683. Invalid Tweets | LeetCode | Database | Easy | Java |
