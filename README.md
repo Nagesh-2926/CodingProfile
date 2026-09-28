@@ -232,3 +232,5 @@ Shafaet | N/A |
 | 119 | 257. Binary Tree Paths | LeetCode | String | Easy | Java |
 
 | 120 | 112. Path Sum | LeetCode | Tree | Easy | Java |
+
+| 121 | 620. Not Boring Movies | LeetCode | Database | Easy | Java |
