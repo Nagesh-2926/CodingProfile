@@ -224,3 +224,5 @@ Shafaet | N/A |
 | 115 | 226. Invert Binary Tree | LeetCode | Tree | Easy | Java |
 
 | 116 | 113. Path Sum II | LeetCode | Tree | Medium | Java |
+
+| 117 | 1614. Maximum Nesting Depth of the Parentheses | LeetCode | String | Easy | Java |
