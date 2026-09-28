@@ -216,3 +216,5 @@ Shafaet | N/A |
 | 111 | 236. Lowest Common Ancestor of a Binary Tree | LeetCode | Tree | Medium | Choose a type |
 
 | 112 | 124. Binary Tree Maximum Path Sum | LeetCode | Tree | Hard | Choose a type |
+
+| 113 | 449. Serialize and Deserialize BST | LeetCode | Tree | Medium | Choose a type |
