@@ -14,18 +14,23 @@
  * }
  */
 class Solution {
-    public void flatten(TreeNode root) {
-        if(root==null) return;
-        flatten(root.left);
-        flatten(root.right);
-        TreeNode left=root.left;
-        TreeNode right=root.right;
-        root.left=null;
-        root.right=left;
-        TreeNode curr=root;
-        while(curr.right!=null){
-            curr=curr.right;
+    public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
+        List<List<Integer>> res=new ArrayList<>();
+        List<Integer> path=new ArrayList<>();
+        dfs(root,targetSum,path,res);
+        return res;
+    }
+    public void dfs(TreeNode node,int targetSum,List<Integer> path,List<List<Integer>> res){
+        if(node==null) return;
+        path.add(node.val);
+        if(node.left==null && node.right==null){
+            if(targetSum==node.val) res.add(new ArrayList<>(path));
+            path.remove(path.size()-1);
+            return;
         }
-        curr.right=right;
+        targetSum-=node.val;
+        dfs(node.left,targetSum,path,res);
+        dfs(node.right,targetSum,path,res);
+        path.remove(path.size()-1);
     }
 }
