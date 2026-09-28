@@ -221,4 +221,4 @@ Shafaet | N/A |
 
 | 114 | 101. Symmetric Tree | LeetCode | Tree | Easy | Choose a type |
 
-| 115 | 226. Invert Binary Tree | LeetCode | Tree | Easy | Choose a type |
+| 115 | 226. Invert Binary Tree | LeetCode | Tree | Easy | Java |
