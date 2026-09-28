@@ -236,3 +236,5 @@ Shafaet | N/A |
 | 121 | 620. Not Boring Movies | LeetCode | Database | Easy | Java |
 
 | 122 | 584. Find Customer Referee | LeetCode | Database | Easy | Java |
+
+| 123 | Article Views I | LeetCode | database | N/A | Java |
