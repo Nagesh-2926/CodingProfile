@@ -230,3 +230,5 @@ Shafaet | N/A |
 | 118 | 572. Subtree of Another Tree | LeetCode | Tree | Easy | Java |
 
 | 119 | 257. Binary Tree Paths | LeetCode | String | Easy | Java |
+
+| 120 | 112. Path Sum | LeetCode | Tree | Easy | Java |
