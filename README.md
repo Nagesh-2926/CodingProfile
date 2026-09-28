@@ -223,4 +223,4 @@ Shafaet | N/A |
 
 | 115 | 226. Invert Binary Tree | LeetCode | Tree | Easy | Java |
 
-| 116 | 113. Path Sum II | LeetCode | Backtracking | Medium | Java |
+| 116 | 113. Path Sum II | LeetCode | Tree | Medium | Java |
