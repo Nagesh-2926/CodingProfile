@@ -11,17 +11,23 @@ Design an algorithm to serialize and deserialize a binary search tree. There is 
 The encoded string should be as compact as possible.
 
  
+
 Example 1:
+
 Input: root = [2,1,3]
 Output: [2,1,3]
+
+
 Example 2:
+
 Input: root = []
 Output: []
 
+
  
+
 Constraints:
 
-
-	The number of nodes in the tree is in the range [0, 104].
-	0 <= Node.val <= 104
-	The input tree is guaranteed to be a binary search tree.
+The number of nodes in the tree is in the range [0, 104].
+0 <= Node.val <= 104
+The input tree is guaranteed to be a binary search tree.
