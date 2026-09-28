@@ -218,3 +218,5 @@ Shafaet | N/A |
 | 112 | 124. Binary Tree Maximum Path Sum | LeetCode | Tree | Hard | Choose a type |
 
 | 113 | 449. Serialize and Deserialize BST | LeetCode | Tree | Medium | Choose a type |
+
+| 114 | 101. Symmetric Tree | LeetCode | Tree | Easy | Choose a type |
