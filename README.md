@@ -242,3 +242,5 @@ Shafaet | N/A |
 | 124 | 1683. Invalid Tweets | LeetCode | Database | Easy | Java |
 
 | 125 | 1965. Employees With Missing Information | LeetCode | Database | Easy | Java |
+
+| 126 | 1517. Find Users With Valid E-Mails | LeetCode | Database | Easy | Java |
