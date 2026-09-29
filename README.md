@@ -256,3 +256,5 @@ Shafaet | N/A |
 | 131 | 586. Customer Placing the Largest Number of Orders | LeetCode | Database | Easy | Java |
 
 | 132 | 129. Sum Root to Leaf Numbers | LeetCode | Tree | Medium | Java |
+
+| 133 | 1448. Count Good Nodes in Binary Tree | LeetCode | Tree | Medium | Java |
