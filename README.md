@@ -240,3 +240,5 @@ Shafaet | N/A |
 | 123 | Article Views I | LeetCode | database | N/A | Java |
 
 | 124 | 1683. Invalid Tweets | LeetCode | Database | Easy | Java |
+
+| 125 | 1965. Employees With Missing Information | LeetCode | Database | Easy | Java |
