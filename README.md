@@ -252,3 +252,5 @@ Shafaet | N/A |
 | 129 | 1667. Fix Names in a Table | LeetCode | Database | Easy | Java |
 
 | 130 | 1378. Replace Employee ID With The Unique Identifier | LeetCode | Database | Easy | Java |
+
+| 131 | 586. Customer Placing the Largest Number of Orders | LeetCode | Database | Easy | Java |
