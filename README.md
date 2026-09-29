@@ -248,3 +248,5 @@ Shafaet | N/A |
 | 127 | 1527. Patients With a Condition | LeetCode | Database | Easy | Java |
 
 | 128 | 1729. Find Followers Count | LeetCode | Database | Easy | Java |
+
+| 129 | 1667. Fix Names in a Table | LeetCode | Database | Easy | Java |
