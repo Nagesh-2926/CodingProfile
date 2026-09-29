@@ -254,3 +254,5 @@ Shafaet | N/A |
 | 130 | 1378. Replace Employee ID With The Unique Identifier | LeetCode | Database | Easy | Java |
 
 | 131 | 586. Customer Placing the Largest Number of Orders | LeetCode | Database | Easy | Java |
+
+| 132 | 129. Sum Root to Leaf Numbers | LeetCode | Tree | Medium | Java |
