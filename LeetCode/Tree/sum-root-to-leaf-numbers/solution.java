@@ -14,13 +14,19 @@
  * }
  */
 class Solution {
-    public int sumNumbers(TreeNode root) {
-        return solve(root,0);
+    Map<String,Integer> cnt=new HashMap<>();
+    List<TreeNode> ans=new ArrayList<>();
+    public List<TreeNode> findDuplicateSubtrees(TreeNode root) {
+        findDuplies(root);
+        return ans;
     }
-    private int solve(TreeNode node,int num){
-        if(node==null) return 0;
-        num=num*10+node.val;
-        if(node.left==null && node.right==null) return num;
-        return solve(node.left,num) + solve(node.right,num);
+    String findDuplies(TreeNode node){
+        if(node==null) return "null";
+        String left=findDuplies(node.left);
+        String right=findDuplies(node.right);
+        String desc=node.val+","+left+","+right;
+        cnt.put(desc,cnt.getOrDefault(desc,0)+1);
+        if(cnt.get(desc)==2) ans.add(node);
+        return desc;
     }
 }
