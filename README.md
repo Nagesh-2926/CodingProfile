@@ -266,3 +266,5 @@ Shafaet | N/A |
 | 136 | 577. Employee Bonus | LeetCode | Database | Easy | Java |
 
 | 137 | 1280. Students and Examinations | LeetCode | Database | Easy | Java |
+
+| 138 | 116. Populating Next Right Pointers in Each Node | LeetCode | Tree | Medium | Java |
