@@ -270,3 +270,5 @@ Shafaet | N/A |
 | 138 | 116. Populating Next Right Pointers in Each Node | LeetCode | Tree | Medium | Java |
 
 | 139 | 1068. Product Sales Analysis I | LeetCode | Database | Easy | Java |
+
+| 140 | 1581. Customer Who Visited but Did Not Make Any Transactions | LeetCode | Database | Easy | Java |
