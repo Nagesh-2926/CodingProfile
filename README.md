@@ -264,3 +264,5 @@ Shafaet | N/A |
 | 135 | 968. Binary Tree Cameras | LeetCode | Tree | Hard | Java |
 
 | 136 | 577. Employee Bonus | LeetCode | Database | Easy | Java |
+
+| 137 | 1280. Students and Examinations | LeetCode | Database | Easy | Java |
