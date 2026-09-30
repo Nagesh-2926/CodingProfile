@@ -280,3 +280,5 @@ Shafaet | N/A |
 | 143 | 570. Managers with at Least 5 Direct Reports | LeetCode | Database | Medium | Java |
 
 | 144 | 1934. Confirmation Rate | LeetCode | Database | Medium | Java |
+
+| 145 | 182. Duplicate Emails | LeetCode | Database | Easy | Java |
