@@ -278,3 +278,5 @@ Shafaet | N/A |
 | 142 | 1661. Average Time of Process per Machine | LeetCode | Database | Easy | Java |
 
 | 143 | 570. Managers with at Least 5 Direct Reports | LeetCode | Database | Medium | Java |
+
+| 144 | 1934. Confirmation Rate | LeetCode | Database | Medium | Java |
