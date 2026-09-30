@@ -284,3 +284,5 @@ Shafaet | N/A |
 | 145 | 182. Duplicate Emails | LeetCode | Database | Easy | Java |
 
 | 146 | 511. Game Play Analysis I | LeetCode | Database | Easy | Java |
+
+| 147 | 2356. Number of Unique Subjects Taught by Each Teacher | LeetCode | Database | Easy | Java |
