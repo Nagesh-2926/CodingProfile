@@ -268,3 +268,5 @@ Shafaet | N/A |
 | 137 | 1280. Students and Examinations | LeetCode | Database | Easy | Java |
 
 | 138 | 116. Populating Next Right Pointers in Each Node | LeetCode | Tree | Medium | Java |
+
+| 139 | 1068. Product Sales Analysis I | LeetCode | Database | Easy | Java |
