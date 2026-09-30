@@ -290,3 +290,5 @@ Shafaet | N/A |
 | 148 | 1741. Find Total Time Spent by Each Employee | LeetCode | Database | Easy | Java |
 
 | 149 | 1075. Project Employees I | LeetCode | Database | Easy | Java |
+
+| 150 | 1633. Percentage of Users Attended a Contest | LeetCode | Database | Easy | Java |
