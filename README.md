@@ -274,3 +274,5 @@ Shafaet | N/A |
 | 140 | 1581. Customer Who Visited but Did Not Make Any Transactions | LeetCode | Database | Easy | Java |
 
 | 141 | 197. Rising Temperature | LeetCode | Database | Easy | Java |
+
+| 142 | 1661. Average Time of Process per Machine | LeetCode | Database | Easy | Java |
