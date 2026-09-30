@@ -288,3 +288,5 @@ Shafaet | N/A |
 | 147 | 2356. Number of Unique Subjects Taught by Each Teacher | LeetCode | Database | Easy | Java |
 
 | 148 | 1741. Find Total Time Spent by Each Employee | LeetCode | Database | Easy | Java |
+
+| 149 | 1075. Project Employees I | LeetCode | Database | Easy | Java |
