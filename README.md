@@ -272,3 +272,5 @@ Shafaet | N/A |
 | 139 | 1068. Product Sales Analysis I | LeetCode | Database | Easy | Java |
 
 | 140 | 1581. Customer Who Visited but Did Not Make Any Transactions | LeetCode | Database | Easy | Java |
+
+| 141 | 197. Rising Temperature | LeetCode | Database | Easy | Java |
