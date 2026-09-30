@@ -276,3 +276,5 @@ Shafaet | N/A |
 | 141 | 197. Rising Temperature | LeetCode | Database | Easy | Java |
 
 | 142 | 1661. Average Time of Process per Machine | LeetCode | Database | Easy | Java |
+
+| 143 | 570. Managers with at Least 5 Direct Reports | LeetCode | Database | Medium | Java |
