@@ -282,3 +282,5 @@ Shafaet | N/A |
 | 144 | 1934. Confirmation Rate | LeetCode | Database | Medium | Java |
 
 | 145 | 182. Duplicate Emails | LeetCode | Database | Easy | Java |
+
+| 146 | 511. Game Play Analysis I | LeetCode | Database | Easy | Java |
