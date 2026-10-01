@@ -302,3 +302,5 @@ Shafaet | N/A |
 | 154 | 530. Minimum Absolute Difference in BST | LeetCode | Tree | Easy | Java |
 
 | 155 | 538. Convert BST to Greater Tree | LeetCode | Tree | Medium | Java |
+
+| 156 | 938. Range Sum of BST | LeetCode | Tree | Easy | Java |
