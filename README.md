@@ -316,3 +316,5 @@ Shafaet | N/A |
 | 161 | 1211. Queries Quality and Percentage | LeetCode | Database | Easy | Java |
 
 | 162 | 1141. User Activity for the Past 30 Days I | LeetCode | Database | Easy | Java |
+
+| 163 | 183. Customers Who Never Order | LeetCode | Database | Easy | Java |
