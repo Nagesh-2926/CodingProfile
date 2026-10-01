@@ -298,3 +298,5 @@ Shafaet | N/A |
 | 152 | GFG. Ceil in BST | GeeksforGeeks | Binary Search Tree | N/A | Java |
 
 | 153 | 669. Trim a Binary Search Tree | LeetCode | Tree | Medium | Java |
+
+| 154 | 530. Minimum Absolute Difference in BST | LeetCode | Tree | Easy | Java |
