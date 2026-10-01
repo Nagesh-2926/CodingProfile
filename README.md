@@ -306,3 +306,5 @@ Shafaet | N/A |
 | 156 | 938. Range Sum of BST | LeetCode | Tree | Easy | Java |
 
 | 157 | 96. Unique Binary Search Trees | LeetCode | Math | Medium | Java |
+
+| 158 | GFG. Predecessor and Successor in BST | GeeksforGeeks | Tree | N/A | Java |
