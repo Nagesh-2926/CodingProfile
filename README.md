@@ -310,3 +310,5 @@ Shafaet | N/A |
 | 158 | GFG. Predecessor and Successor in BST | GeeksforGeeks | Tree | N/A | Java |
 
 | 159 | GFG. Binary Tree to DLL | GeeksforGeeks | Tree | N/A | Java |
+
+| 160 | 99. Recover Binary Search Tree | LeetCode | Tree | Medium | Java |
