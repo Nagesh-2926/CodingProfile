@@ -304,3 +304,5 @@ Shafaet | N/A |
 | 155 | 538. Convert BST to Greater Tree | LeetCode | Tree | Medium | Java |
 
 | 156 | 938. Range Sum of BST | LeetCode | Tree | Easy | Java |
+
+| 157 | 96. Unique Binary Search Trees | LeetCode | Math | Medium | Java |
