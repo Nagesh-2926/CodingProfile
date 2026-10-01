@@ -294,3 +294,5 @@ Shafaet | N/A |
 | 150 | 1633. Percentage of Users Attended a Contest | LeetCode | Database | Easy | Java |
 
 | 151 | GFG. Floor in BST | GeeksforGeeks | Tree | N/A | Java |
+
+| 152 | GFG. Ceil in BST | GeeksforGeeks | Binary Search Tree | N/A | Java |
