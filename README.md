@@ -312,3 +312,5 @@ Shafaet | N/A |
 | 159 | GFG. Binary Tree to DLL | GeeksforGeeks | Tree | N/A | Java |
 
 | 160 | 99. Recover Binary Search Tree | LeetCode | Tree | Medium | Java |
+
+| 161 | 1211. Queries Quality and Percentage | LeetCode | Database | Easy | Java |
