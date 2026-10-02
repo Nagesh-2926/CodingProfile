@@ -324,3 +324,5 @@ Shafaet | N/A |
 | 165 | 117. Populating Next Right Pointers in Each Node II | LeetCode | Tree | Medium | Java |
 
 | 166 | 337. House Robber III | LeetCode | Tree | Medium | Java |
+
+| 167 | 1339. Maximum Product of Splitted Binary Tree | LeetCode | Tree | Medium | Java |
