@@ -322,3 +322,5 @@ Shafaet | N/A |
 | 164 | 22. Generate Parentheses | LeetCode | Backtracking | Medium | Java |
 
 | 165 | 117. Populating Next Right Pointers in Each Node II | LeetCode | Tree | Medium | Java |
+
+| 166 | 337. House Robber III | LeetCode | Tree | Medium | Java |
