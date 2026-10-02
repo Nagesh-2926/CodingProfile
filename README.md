@@ -318,3 +318,5 @@ Shafaet | N/A |
 | 162 | 1141. User Activity for the Past 30 Days I | LeetCode | Database | Easy | Java |
 
 | 163 | 183. Customers Who Never Order | LeetCode | Database | Easy | Java |
+
+| 164 | 22. Generate Parentheses | LeetCode | Backtracking | Medium | Java |
