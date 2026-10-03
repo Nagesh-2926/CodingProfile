@@ -153,7 +153,7 @@ Shafaet | N/A |
 
 | 80 | 1207. Unique Number of Occurrences | LeetCode | Hash Table | Easy | Choose a type |
 
-| 81 | 200. Number of Islands | LeetCode | Depth-First Search | Medium | Choose a type |
+| 81 | 200. Number of Islands | LeetCode | Depth-First Search | Medium | Java |
 
 | 82 | 695. Max Area of Island | LeetCode | Depth-First Search | Medium | Choose a type |
 
