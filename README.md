@@ -328,3 +328,5 @@ Shafaet | N/A |
 | 167 | 1339. Maximum Product of Splitted Binary Tree | LeetCode | Tree | Medium | Java |
 
 | 168 | 979. Distribute Coins in Binary Tree | LeetCode | Tree | Medium | Java |
+
+| 169 | 108. Convert Sorted Array to Binary Search Tree | LeetCode | Binary Search Tree | Easy | Java |
