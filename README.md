@@ -336,3 +336,5 @@ Shafaet | N/A |
 | 171 | GFG. DFS of Graph | GeeksforGeeks | Graph | N/A | Java |
 
 | 172 | GFG. BFS of Graph | GeeksforGeeks | Graph | N/A | Java |
+
+| 173 | 1791. Find Center of Star Graph | LeetCode | Graph Theory | Easy | Java |
