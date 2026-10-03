@@ -332,3 +332,5 @@ Shafaet | N/A |
 | 169 | 108. Convert Sorted Array to Binary Search Tree | LeetCode | Binary Search Tree | Easy | Java |
 
 | 170 | 109. Convert Sorted List to Binary Search Tree | LeetCode | Binary Search Tree | Medium | Java |
+
+| 171 | GFG. DFS of Graph | GeeksforGeeks | Graph | N/A | Java |
