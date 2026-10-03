@@ -338,3 +338,5 @@ Shafaet | N/A |
 | 172 | GFG. BFS of Graph | GeeksforGeeks | Graph | N/A | Java |
 
 | 173 | 1791. Find Center of Star Graph | LeetCode | Graph Theory | Easy | Java |
+
+| 174 | 2497. Maximum Star Sum of a Graph | LeetCode | Greedy | Medium | Java |
