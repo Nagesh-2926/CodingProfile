@@ -340,3 +340,5 @@ Shafaet | N/A |
 | 173 | 1791. Find Center of Star Graph | LeetCode | Graph Theory | Easy | Java |
 
 | 174 | 2497. Maximum Star Sum of a Graph | LeetCode | Greedy | Medium | Java |
+
+| 175 | 856. Score of Parentheses | LeetCode | String | Medium | Java |
