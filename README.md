@@ -342,3 +342,5 @@ Shafaet | N/A |
 | 174 | 2497. Maximum Star Sum of a Graph | LeetCode | Greedy | Medium | Java |
 
 | 175 | 856. Score of Parentheses | LeetCode | String | Medium | Java |
+
+| 176 | 921. Minimum Add to Make Parentheses Valid | LeetCode | String | Medium | Java |
