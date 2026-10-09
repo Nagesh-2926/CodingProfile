@@ -344,3 +344,5 @@ Shafaet | N/A |
 | 175 | 856. Score of Parentheses | LeetCode | String | Medium | Java |
 
 | 176 | 921. Minimum Add to Make Parentheses Valid | LeetCode | String | Medium | Java |
+
+| 177 | 1541. Minimum Insertions to Balance a Parentheses String | LeetCode | String | Medium | Java |
