@@ -348,3 +348,5 @@ Shafaet | N/A |
 | 177 | 1541. Minimum Insertions to Balance a Parentheses String | LeetCode | String | Medium | Java |
 
 | 178 | 2333. Minimum Sum of Squared Difference | LeetCode | Array | Medium | Java |
+
+| 179 | 2778. Sum of Squares of Special Elements | LeetCode | Array | Easy | Java |
