@@ -354,3 +354,5 @@ Shafaet | N/A |
 | 180 | 2897. Apply Operations on Array to Maximize Sum of Squares | LeetCode | Bit Manipulation | Hard | Java |
 
 | 181 | 1084. Sales Analysis III | LeetCode | Database | Easy | Java |
+
+| 182 | 184. Department Highest Salary | LeetCode | Database | Medium | Java |
