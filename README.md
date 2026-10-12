@@ -352,3 +352,5 @@ Shafaet | N/A |
 | 179 | 2778. Sum of Squares of Special Elements | LeetCode | Array | Easy | Java |
 
 | 180 | 2897. Apply Operations on Array to Maximize Sum of Squares | LeetCode | Bit Manipulation | Hard | Java |
+
+| 181 | 1084. Sales Analysis III | LeetCode | Database | Easy | Java |
