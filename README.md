@@ -350,3 +350,5 @@ Shafaet | N/A |
 | 178 | 2333. Minimum Sum of Squared Difference | LeetCode | Array | Medium | Java |
 
 | 179 | 2778. Sum of Squares of Special Elements | LeetCode | Array | Easy | Java |
+
+| 180 | 2897. Apply Operations on Array to Maximize Sum of Squares | LeetCode | Bit Manipulation | Hard | Java |
