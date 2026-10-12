@@ -356,3 +356,5 @@ Shafaet | N/A |
 | 181 | 1084. Sales Analysis III | LeetCode | Database | Easy | Java |
 
 | 182 | 184. Department Highest Salary | LeetCode | Database | Medium | Java |
+
+| 183 | 176. Second Highest Salary | LeetCode | Database | Medium | Java |
