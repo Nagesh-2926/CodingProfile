@@ -366,3 +366,5 @@ Shafaet | N/A |
 | 186 | 342. Power of Four | LeetCode | Math | Easy | Java |
 
 | 187 | 231. Power of Two | LeetCode | Math | Easy | Java |
+
+| 188 | 258. Add Digits | LeetCode | Math | Easy | Java |
