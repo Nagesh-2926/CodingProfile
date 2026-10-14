@@ -360,3 +360,5 @@ Shafaet | N/A |
 | 183 | 176. Second Highest Salary | LeetCode | Database | Medium | Java |
 
 | 184 | 3723. Maximize Sum of Squares of Digits | LeetCode | Math | Medium | Java |
+
+| 185 | 326. Power of Three | LeetCode | Math | Easy | Java |
