@@ -362,3 +362,5 @@ Shafaet | N/A |
 | 184 | 3723. Maximize Sum of Squares of Digits | LeetCode | Math | Medium | Java |
 
 | 185 | 326. Power of Three | LeetCode | Math | Easy | Java |
+
+| 186 | 342. Power of Four | LeetCode | Math | Easy | Java |
