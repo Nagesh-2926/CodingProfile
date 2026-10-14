@@ -358,3 +358,5 @@ Shafaet | N/A |
 | 182 | 184. Department Highest Salary | LeetCode | Database | Medium | Java |
 
 | 183 | 176. Second Highest Salary | LeetCode | Database | Medium | Java |
+
+| 184 | 3723. Maximize Sum of Squares of Digits | LeetCode | Math | Medium | Java |
