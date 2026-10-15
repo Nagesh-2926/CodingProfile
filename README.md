@@ -370,3 +370,5 @@ Shafaet | N/A |
 | 188 | 258. Add Digits | LeetCode | Math | Easy | Java |
 
 | 189 | 2913. Subarrays Distinct Element Sum of Squares I | LeetCode | Hash Table | Easy | Java |
+
+| 190 | 172. Factorial Trailing Zeroes | LeetCode | Math | Medium | Java |
