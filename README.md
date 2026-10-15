@@ -169,7 +169,7 @@ Shafaet | N/A |
 
 | 88 | 66. Plus One | LeetCode | Array | Easy | Choose a type |
 
-| 89 | 171. Excel Sheet Column Number | LeetCode | Math | Easy | Choose a type |
+| 89 | 171. Excel Sheet Column Number | LeetCode | Math | Easy | Java |
 
 | 90 | 1423. Maximum Points You Can Obtain from Cards | LeetCode | Array | Medium | Choose a type |
 
