@@ -368,3 +368,5 @@ Shafaet | N/A |
 | 187 | 231. Power of Two | LeetCode | Math | Easy | Java |
 
 | 188 | 258. Add Digits | LeetCode | Math | Easy | Java |
+
+| 189 | 2913. Subarrays Distinct Element Sum of Squares I | LeetCode | Hash Table | Easy | Java |
