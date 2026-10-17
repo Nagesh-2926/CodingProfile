@@ -374,3 +374,5 @@ Shafaet | N/A |
 | 190 | 172. Factorial Trailing Zeroes | LeetCode | Math | Medium | Java |
 
 | 191 | 1979. Find Greatest Common Divisor of Array | LeetCode | Math | Easy | Java |
+
+| 192 | 1071. Greatest Common Divisor of Strings | LeetCode | Math | Easy | Java |
