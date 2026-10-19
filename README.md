@@ -376,3 +376,5 @@ Shafaet | N/A |
 | 191 | 1979. Find Greatest Common Divisor of Array | LeetCode | Math | Easy | Java |
 
 | 192 | 1071. Greatest Common Divisor of Strings | LeetCode | Math | Easy | Java |
+
+| 193 | 2089. Find Target Indices After Sorting Array | LeetCode | Array | Easy | Java |
