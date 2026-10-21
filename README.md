@@ -378,3 +378,5 @@ Shafaet | N/A |
 | 192 | 1071. Greatest Common Divisor of Strings | LeetCode | Math | Easy | Java |
 
 | 193 | 2089. Find Target Indices After Sorting Array | LeetCode | Array | Easy | Java |
+
+| 194 | 3863. Minimum Operations to Sort a String | LeetCode | String | Medium | Java |
