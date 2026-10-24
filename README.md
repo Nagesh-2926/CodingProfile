@@ -386,3 +386,5 @@ Shafaet | N/A |
 | 196 | Q2. Count Subarrays With Loose Bounds | LeetCode | Arrays | Medium | Java |
 
 | 197 | Q3. Count Magical Substring Pairs I | LeetCode | String | Medium | Java |
+
+| 198 | 2409. Count Days Spent Together | LeetCode | Math | Easy | Java |
