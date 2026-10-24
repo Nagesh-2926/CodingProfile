@@ -382,3 +382,5 @@ Shafaet | N/A |
 | 194 | 3863. Minimum Operations to Sort a String | LeetCode | String | Medium | Java |
 
 | 195 | Q1. Difference Between Peaks and Valleys | LeetCode | Arrays | Easy | Java |
+
+| 196 | Q2. Count Subarrays With Loose Bounds | LeetCode | Arrays | Medium | Java |
