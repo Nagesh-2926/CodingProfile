@@ -380,3 +380,5 @@ Shafaet | N/A |
 | 193 | 2089. Find Target Indices After Sorting Array | LeetCode | Array | Easy | Java |
 
 | 194 | 3863. Minimum Operations to Sort a String | LeetCode | String | Medium | Java |
+
+| 195 | Q1. Difference Between Peaks and Valleys | LeetCode | Arrays | Easy | Java |
