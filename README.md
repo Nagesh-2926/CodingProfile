@@ -388,3 +388,5 @@ Shafaet | N/A |
 | 197 | Q3. Count Magical Substring Pairs I | LeetCode | String | Medium | Java |
 
 | 198 | 2409. Count Days Spent Together | LeetCode | Math | Easy | Java |
+
+| 199 | Q1. Binary Digit Score | LeetCode | Bits | Easy | Java |
