@@ -390,3 +390,5 @@ Shafaet | N/A |
 | 198 | 2409. Count Days Spent Together | LeetCode | Math | Easy | Java |
 
 | 199 | Q1. Binary Digit Score | LeetCode | Bits | Easy | Java |
+
+| 200 | Q2. Maximize Sum After At Most K Digit Rearrangements | LeetCode | Arrays | Medium | Java |
