@@ -394,3 +394,5 @@ Shafaet | N/A |
 | 200 | Q2. Maximize Sum After At Most K Digit Rearrangements | LeetCode | Arrays | Medium | Java |
 
 | 201 | Q3. Count Frequency Staircase Subarrays I | LeetCode | HashMap | Medium | Java |
+
+| 202 | 1254. Number of Closed Islands | LeetCode | Depth-First Search | Medium | Java |
