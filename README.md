@@ -392,3 +392,5 @@ Shafaet | N/A |
 | 199 | Q1. Binary Digit Score | LeetCode | Bits | Easy | Java |
 
 | 200 | Q2. Maximize Sum After At Most K Digit Rearrangements | LeetCode | Arrays | Medium | Java |
+
+| 201 | Q3. Count Frequency Staircase Subarrays I | LeetCode | HashMap | Medium | Java |
